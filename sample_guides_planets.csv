@@ -1,0 +1,9 @@
+_id,hasRings,mainAtmosphere,name,orderFromSun,surfaceTemperatureC.max,surfaceTemperatureC.mean,surfaceTemperatureC.min
+621ff30d2a3e781873fcb65c,false,[],Mercury,1,427,67,-173
+621ff30d2a3e781873fcb65d,true,"[""H2"",""He"",""CH4""]",Uranus,7,null,-197.2,null
+621ff30d2a3e781873fcb65e,false,"[""CO2"",""Ar"",""N""]",Mars,4,35,-63,-143
+621ff30d2a3e781873fcb65f,true,"[""H2"",""He"",""CH4""]",Neptune,8,null,-201,null
+621ff30d2a3e781873fcb660,true,"[""H2"",""He"",""CH4""]",Jupiter,5,null,-145.15,null
+621ff30d2a3e781873fcb661,false,"[""N"",""O2"",""Ar""]",Earth,3,56.7,14,-89.2
+621ff30d2a3e781873fcb662,false,"[""CO2"",""N""]",Venus,2,null,464,null
+621ff30d2a3e781873fcb663,true,"[""H2"",""He"",""CH4""]",Saturn,6,null,-139.15,null
